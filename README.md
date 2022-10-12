@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=04aa6d&height=200&section=header&text=ChoLong02&fontSize=95)
 
-<div align=center font-size="30px">I am Software Engineer and Data Scientist.</div>
+<div align=center>## I am Software Engineer and Data Scientist.</div>
 <br>
 <br>
 
