@@ -71,7 +71,7 @@
 </div>
 
 
-<!-- [![ChoLong02's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoLong02)](https://github.com/anuraghazra/github-readme-stats) -->
+[![ChoLong02's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoLong02&hide=prs, issues, contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02)](https://github.com/ChoLong02/github-readme-stats)
 
