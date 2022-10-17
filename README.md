@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=04aa6d&height=200&section=header&text=ChoLong02&fontSize=95)
 
 
-### Software Engineer and Data Scientist
+### :star:Software Engineer and Data Scientist
 - I am Software Engineer and Data Scientist.
 - I am giving lectures on programming and artificial intelligence at university.
 
-### Interest
+### :star:Interest
 - Distributed System and Federated Learning
 - Medical Bigdata Analysis
 - Deep Learning and Machine Learning
@@ -13,7 +13,7 @@
 
 <h2 align=center></h2>
 
-### Link
+### :star:Link
 <div align=center>
   <a href="https://cholong02.netlify.com" target="_blank"><img src="https://img.shields.io/badge/mypage-04aa6d?style=for-the-badge&logo=semanticweb&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=mYm0FCQAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://img.shields.io/badge/google-DA4536?style=for-the-badge&logo=google&logoColor=white"></a>
@@ -23,7 +23,7 @@
 
 <h2 align=center></h2>
 
-### My Skills
+### :star:My Skills
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
