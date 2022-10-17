@@ -12,18 +12,13 @@
 - Web Programming
 
 <div align=center>
-  <a href="https://cholong02.netlify.com" target="_blank"><img src="https://img.shields.io/badge/mypage-179C7D?style=flat-square&logo=semanticweb&logoColor=white"></a>
+  <a href="https://cholong02.netlify.com" target="_blank"><img src="https://img.shields.io/badge/mypage-04aa6d?style=flat-square&logo=semanticweb&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=mYm0FCQAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://img.shields.io/badge/google-DA4536?style=flat-square&logo=google&logoColor=white"></a>
   <a href="https://github.com/ChoLong02" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.kaggle.com/cholong02" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a>
 </div>
 
-
-
 <h2 align=center></h2>
-
-
-
 
 ### My Skills
 <div align=center> 
