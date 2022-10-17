@@ -71,7 +71,7 @@
 </div>
 
 
-[![Cholong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoLong02&hide=prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cholong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoLong02&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02)](https://github.com/ChoLong02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02&layout=compact)](https://github.com/ChoLong02/github-readme-stats)
 
