@@ -11,6 +11,8 @@
 - Deep Learning and Machine Learning
 - Web Programming
 
+<h2 align=center></h2>
+
 ### Link
 <div align=center>
   <a href="https://cholong02.netlify.com" target="_blank"><img src="https://img.shields.io/badge/mypage-04aa6d?style=for-the-badge&logo=semanticweb&logoColor=white"></a>
