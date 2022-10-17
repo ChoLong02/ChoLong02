@@ -63,6 +63,6 @@
 
 <h2></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoLong02&show_icons=true&theme=buefy&hide=prs,issues"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoLong02&show_icons=true&theme=vue"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&theme=vue"/>
 </div>
