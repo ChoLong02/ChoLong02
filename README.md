@@ -1,6 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=04aa6d&height=200&section=header&text=ChoLong02&fontSize=95)
 
-<h2 align=center>I am Software Engineer and Data Scientist.</h2>
+
+### Software Engineer and Data Scientist
+- I am Software Engineer and Data Scientist.
+- I am giving lectures on programming and artificial intelligence at university.
+
+### Interest
+- Distributed System and Federated Learning
+- Medical Bigdata Analysis
+- Deep Learning and Machine Learning
+- Web Programming
+
+<div align=center>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+</div>
+
+<h2 align=center></h2>
+
+
+
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -63,6 +86,6 @@
 
 <h2></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoLong02&show_icons=true&theme=vue"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChoLong02&show_icons=true&theme=vue"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoLong02&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&theme=vue"/>
 </div>
