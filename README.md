@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=04aa6d&height=200&section=header&text=ChoLong02&fontSize=95)
 
 <h2 align=center>I am Software Engineer and Data Scientist.</h2>
-#
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
