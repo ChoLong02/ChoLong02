@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=04aa6d&height=200&section=header&text=ChoLong02&fontSize=95)
 
 
-### :star:Software Engineer and Data Scientist
-- I am Software Engineer and Data Scientist.
+### :star:Research Software Engineer(RSE) and Data Scientist
+- I am "Research Software Engineer(RSE)" and "Data Scientist".
 - I am giving lectures on programming and artificial intelligence at university.
 
 ### :star:Interest
 - Distributed System and Federated Learning
 - Medical Bigdata Analysis
 - Deep Learning and Machine Learning
+- MLOps and Data Pipeline
 - Web Programming
 
 <h2 align=center></h2>
