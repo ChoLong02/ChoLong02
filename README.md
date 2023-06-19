@@ -10,7 +10,7 @@
 - Medical Bigdata Analysis
 - Deep Learning and Machine Learning
 - MLOps and Data Pipeline
-- Web Programming
+- AI Web Service
 
 <h2 align=center></h2>
 
